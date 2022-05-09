@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "id": 0,
+      "icon": "Rifki",
+      "nama": "Muhammad Rifki",
+      "daerah": "jagakarsa, Jakarta Selatan",
+      "jabatan": "Ketua",
+      "kuliah": "Islamic Studies",
+      "kampus": "International of Africa",
+      "angkatan": "2019",
+      "no": "+249926180213"
+    },
+    {
+      "id": 1,
+      "icon": "Arfan",
+      "nama": "Arfan Alfiansyah",
+      "daerah": "Depok, Jawa Barat",
+      "jabatan": "Pembimbing",
+      "kuliah": "Law And Sharia",
+      "kampus": "International of Africa",
+      "angkatan": "2018",
+      "no": "+249115483864"
+    },
+    {
+      "id": 2,
+      "icon": "Fahmi",
+      "nama": "Fahmi Hidayat",
+      "daerah": "Bogor, Jawa Barat",
+      "jabatan": "Koki",
+      "kuliah": "Islamic Studies",
+      "kampus": "International of Africa",
+      "angkatan": "2018",
+      "no": "+249121208279"
+    }
+  ],
+  [
+    {
+      "id": 3,
+      "nama": "Yasin",
+      "jabatan": "Anggota",
+      "no": "+6283802608614"
+    },
+    {
+      "id": 4,
+      "nama": "Gibran",
+      "jabatan": "Anggota",
+      "no": "+249999773569"
+    },
+    {
+      "id": 5,
+      "nama": "Azmi",
+      "jabatan": "Anggota",
+      "no": "+6287765140280"
+    },
+    {
+      "id": 6,
+      "nama": "Afif",
+      "jabatan": "Anggota",
+      "no": "+249118322805"
+    },
+    {
+      "id": 7,
+      "nama": "Dihan",
+      "jabatan": "Anggota",
+      "no": "+249998753717"
+    },
+    {
+      "id": 8,
+      "nama": "nabil",
+      "jabatan": "Anggota",
+      "no": "+249999847074"
+    }
+  ]
+]

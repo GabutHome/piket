@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "nama": "Capcay Kol",
+      "gambar": "capcaykol",
+      "menu": "Sahur",
+      "kategori": "Makanan",
+      "desc": "Capcay merupakan salah satu masakan oriental yang praktis dan menyehatkan. Capcay sendiri berasal dari bahasa Hokkien, “cap” berarti sepuluh, sementara “cay” berarti sayur. Inilah yang menyebabkan cap cay terdiri dari banyak jenis sayuran. Tetapi, anda tidak harus menyiapkan tepat 10 macam sayuran, lho. Jenis sayuran yang sering digunakan pada capcay adalah kembang kol, wortel, dan sawi hijau. Selain itu, digunakan juga pelengkap lain seperti daging ayam, bakso, dan jamur kancing. Sebenarnya, ada dua jenis capcay, yakni capcay rebus dan tumis. Capcay rebus terlihat mirip seperti sayur sop karena kuahnya yang banyak. Sementara itu, capcay tumis jumlah kuahnya lebih sedikit.",
+      "url": "https://www.google.com/search?q=capcay+kol"
+    }
+  ],
+  [
+    {
+      "nama": "Teh Jahe Anget",
+      "gambar": "tehjahe",
+      "menu": "Sahur",
+      "kategori": "Minuman",
+      "desc": "Teh jahe merupakan minuman kaya manfaat yang mudah dibuat di rumah. Tak hanya untuk menghangatkan, jahe juga baik untuk memperkuat sistem kekebalan tubuh. Selain itu, teh jahe juga cocok dijadikan minuman pendamping bagi cemilan atau kudapan untuk dinikmati pada pagi dan sore hari. Berikut ini adalah aneka resep dan cara membuat teh jahe hangat yang mudah dibuat di rumah.",
+      "url": "https://www.google.com/search?q=teh+jahe"
+    }
+  ],
+  [
+    {
+      "nama": "Cireng Saus",
+      "gambar": "cireng",
+      "menu": "Iftar",
+      "kategori": "Takjil",
+      "desc": "Salah satu camilan yang mudah dibuat adalah cireng. Dikutip dari buku berjudul Sensasi Cireng Rasa Kekinian karya Indriani, (2020: 3). Cireng singkatan dari aci goreng merupakan makanan ringan yang berasal dari Jawa Barat. Makanan ini dibuat dengan cara menggoreng campuran adonan yang berbahan dasar tepung tapioka. Resep cireng andalan paling nikmat adalah cocolan bumbunya yang membuat makin enak.",
+      "url": "https://www.google.com/search?q=cireng+saus"
+    },
+    {
+      "nama": "Kurma Balah",
+      "gambar": "kurma",
+      "menu": "Iftar",
+      "kategori": "Takjil",
+      "desc": "Kurma, (Arab: تمر, Tamr; nama latin Phoenix dactylifera) adalah tanaman palma (Arecaceae) dalam genus Phoenix, buahnya dapat dimakan. Walaupun tempat asalnya tidak diketahui karena telah sejak lama dibudidayakan, kemungkinan tanaman ini berasal dari tanah sekitar Teluk Persia.",
+      "url": "https://www.google.com/search?q=kurma+medinah"
+    }
+  ],
+  [
+    {
+      "nama": "Jeruk Mandarin",
+      "gambar": "jeruk",
+      "menu": "Iftar",
+      "kategori": "Buah",
+      "desc": "Jeruk mandarin merupakan buah tropis yang banyak berasal dari Asia. Buah ini biasanya selalu disajikan pada perayaan Imlek. Jeruk mandarin dipercaya sebagai salah satu makanan yang membawa keberuntungan saat Imlek. Ada banyak jenis jeruk mandarin. Sebagian jenisnya bisa ditemukan dan dibeli di beberapa e-commerce di Indonesia.",
+      "url": "https://www.google.com/search?q=jeruk+mandarin"
+    },
+    {
+      "nama": "Melon",
+      "gambar": "melon",
+      "menu": "Iftar",
+      "kategori": "Buah",
+      "desc": "Cucurbitaceae with sweet, edible, and fleshy fruit. The word 'melon' can refer to either the plant or specifically to the fruit. Botanically, a melon is a kind of berry, specifically a 'pepo'. The word melon derives from Latin melopepo, which is the latinization of the Greek μηλοπέπων (mēlopepōn), meaning 'melon', itself a compound of μῆλον (mēlon), 'apple, treefruit (of any kind)' and πέπων (pepōn), amongst others 'a kind of gourd or melon'. Many different cultivars have been produced, particularly of cantaloupes.",
+      "url": "https://www.google.com/search?q=melon"
+    }
+  ],
+  [
+    {
+      "nama": "Es Susu Coklat",
+      "gambar": "susucoklat",
+      "menu": "Iftar",
+      "kategori": "Minuman",
+      "desc": "Sobat dapat memasak Es Susu Coklat hanya dengan menggunakan 5 bahan dan 4 langkah saja. Berikut ini bahan dan cara untuk memasaknya, yuk kita coba resep Es Susu Coklat!; Diperlukan 2 sdm coklat windmolen. Diperlukan 2 sdm susu kental manis. Diperlukan 3 sdm gula pasir. Dibutuhkan 170 ml air (70 ml air hangat + 100 ml air biasa). Gunakan secukupnya Es batu.",
+      "url": "https://www.google.com/search?q=es+susu+coklat"
+    },
+    {
+      "nama": "Air Mineral dingin",
+      "gambar": "mineral",
+      "menu": "Malam",
+      "kategori": "Minuman",
+      "desc": "Sebagian orang menjauhi air es karena mengira bahwa kebiasaan minum air es bisa menimbulkan penyakit tertentu. Padahal, air es memiliki beragam manfaat tubuh, misalnya menurunkan demam, menghidrasi tubuh setelah berolahraga, atau menjaga kelembapan kulit. Setiap hari, tubuh Anda kehilangan cairan melalui keringat, urine, dan napas. Oleh karena itu, Anda disarankan untuk banyak minum air putih , baik air es atau pun air biasa, agar tidak mengalami dehidrasi. Pada orang dewasa, konsumsi air putih yang dianjurkan adalah sebanyak 2 liter atau setara dengan 8 gelas per hari. ",
+      "url": "https://www.google.com/search?q=mineral+dingin"
+    }
+  ],
+  [
+    {
+      "nama": "Ayam Bakar Sambal",
+      "gambar": "ayambakar",
+      "menu": "Malam",
+      "kategori": "Makanan",
+      "desc": "Cara menyiapkannya memang tidak terlalu sulit namun tidak gampang juga. Jika salah mengolah maka hasilnya tidak akan memuaskan dan bahkan tidak sedap. Padahal sambal ayam panggang yang enak seharusnya punya aroma dan rasa yang mampu memancing selera kita. Rahasia Pedagang Ayam Bakar Harum Empuk Meresap. Ayam panggang merupakan hidangan lezat bernutrisi. Resep ayam panggang sudah tersedia, sehingga bisa dicicipi lewat aneka resep masakan yang simple ini. Banyak hal yang sedikit banyak berpengaruh terhadap kualitas rasa dari sambal ayam panggang, pertama dari jenis bahan, kedua pemilihan bahan segar sampai cara membuat dan menghidangkannya. Tidak usah pusing jika ingin menyiapkan sambal ayam panggang yang enak di rumah, karena asal sudah tahu triknya maka hidangan ini dapat menjadi suguhan istimewa.",
+      "url": "https://www.google.com/search?q=ayam+bakar+sambal"
+    }
+  ],
+  [
+    {
+      "nama": "Es Teh",
+      "gambar": "esteh",
+      "menu": "Iftar",
+      "kategori": "Minuman",
+      "desc": "Es teh merupakan salah satu minuman yang disukai oleh banyak orang, tidak memandang usia dan minuman ini hampir ada di semua rumah makan. Sebab teh adalah jenis minuman yang paling banyak dikonsumsi setelah air putih dan lebih banyak orang yang konsumsi minuman teh dibandingkan kopi.",
+      "url": "https://www.google.com/search?q=es+teh"
+    }
+  ]
+]

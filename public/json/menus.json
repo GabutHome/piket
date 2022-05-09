@@ -1,0 +1,55 @@
+[
+  {
+    "id": 0,
+    "menu": "Menu Sahur",
+    "daftar": [
+      {
+        "id": 0,
+        "judul": "Makanan",
+        "icon": "bowl-food"
+      },
+      {
+        "id": 1,
+        "judul": "Minuman",
+        "icon": "champagne-glasses"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "menu": "Menu Iftar",
+    "daftar": [
+      {
+        "id": 2,
+        "judul": "Takjil",
+        "icon": "cheese"
+      },
+      {
+        "id": 3,
+        "judul": "Buah",
+        "icon": "apple-whole"
+      },
+      {
+        "id": 4,
+        "judul": "Minuman",
+        "icon": "champagne-glasses"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "menu": "Menu Malam",
+    "daftar": [
+      {
+        "id": 5,
+        "judul": "Makanan",
+        "icon": "bowl-food"
+      },
+      {
+        "id": 6,
+        "judul": "Minuman",
+        "icon": "champagne-glasses"
+      }
+    ]
+  }
+]
